@@ -63,7 +63,7 @@
 &kp C_MUTE                   &none   &mo 5   &sl 2   &mo 4   &kp SPACE    &kp ENTER        &kp SPACE  &kp ENTER  &sl 1      &none    &kp DELETE
             >;
 
-            sensor-bindings = <&scroll_encoder>;
+            sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOLUME_DOWN>;
             display-name = "default";
         };
 
