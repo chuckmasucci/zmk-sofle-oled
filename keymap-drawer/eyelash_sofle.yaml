@@ -27,7 +27,7 @@ layers:
   - O
   - P
   - {t: \, s: '|'}
-  - {t: '$$mdi:keyboard-esc$$', h: Meh+LGUI}
+  - $$mdi:keyboard-esc$$
   - A
   - S
   - D
